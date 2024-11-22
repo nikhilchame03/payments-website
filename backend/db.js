@@ -1,7 +1,7 @@
 const mongoose=require("mongoose");
 
 
-//mongoose.connect("<put _your _monot_connection_string_here");
+//mongoose.connect("<put _your _mongo_connection_string_here");
 
 
 
