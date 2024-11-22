@@ -1,7 +1,7 @@
 const mongoose=require("mongoose");
 
 
-mongoose.connect("mongodb+srv://nikhil:chamenikhil@cluster0.w75ew.mongodb.net/paytmDB");
+//mongoose.connect("<put _your _monot_connection_string_here");
 
 
 
