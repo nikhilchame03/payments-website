@@ -1,6 +1,6 @@
 
 ## Payment Website
 
-#SignUp 
+SignUp 
 ![My Image](./frontend/public/signup.png)
 
