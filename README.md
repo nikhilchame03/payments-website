@@ -1,2 +1,6 @@
 
-## Build a basic version of PayTM
+## Payment Website
+
+#SignUp 
+![My Image](./frontend/public/signup.png)
+
